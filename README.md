@@ -13,7 +13,7 @@
 
 ## Description 
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
+![ReadMe Image](https://github.com/osbornroxas02/employee-tracker-project/blob/master/Screen%20Shot%202020-08-18%20at%2011.12.07%20PM.png)
 
 The Employee Tracker Application was created to allow buisness owners the ability to view and manage the departments, roles, and employees in my company
 so that they can organize their business
@@ -47,7 +47,6 @@ so that they can organize their business
 
 ## Author Info
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/seated%20.JPG)
 Osborn Roxas
 
 - [Github](https://github.com/osbornroxas02/employee-tracker-project)
