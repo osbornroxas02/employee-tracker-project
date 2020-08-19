@@ -15,7 +15,8 @@
 
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/main-page.png)
 
-The Note Taker application was created to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+The Employee Tracker Application was created to allow buisness owners the ability to view and manage the departments, roles, and employees in my company
+so that they can organize their business
 
 
 
@@ -29,14 +30,14 @@ The Note Taker application was created to write and save notes. This application
 
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/Screen%20Shot%202020-08-11%20at%2010.53.25%20PM.png)
 
-> This application runs locally. Download or clone this repository. Then in terminal into Navigate into the Develop folder. Enter npm start to connection to server. To exit enter control + C
+> Download or clone this repository. Then in terminal into Navigate into root folder. Enter npm start. Follow the prompts. If you decide to exit the program early Press (Control + C) to exit.
 
 
 #### Usage 
 
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
 
-> You can use this application to add and delete notes.
+> This App was created allow none developers to view and interact with information stored in databases.
 
 
 [Back to the top](#table-of-contents)
