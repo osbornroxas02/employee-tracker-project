@@ -13,7 +13,7 @@
 
 ## Description 
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/main-page.png)
+![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
 
 The Employee Tracker Application was created to allow buisness owners the ability to view and manage the departments, roles, and employees in my company
 so that they can organize their business
@@ -28,14 +28,15 @@ so that they can organize their business
 
 #### Installation
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/Screen%20Shot%202020-08-11%20at%2010.53.25%20PM.png)
+![ReadMe Image](https://github.com/osbornroxas02/employee-tracker-project/blob/master/Screen%20Shot%202020-08-18%20at%2011.13.02%20PM.png)
 
 > Download or clone this repository. Then in terminal into Navigate into root folder. Enter npm start. Follow the prompts. If you decide to exit the program early Press (Control + C) to exit.
 
 
 #### Usage 
 
-![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/notes-page.png)
+![ReadMe Image](https://github.com/osbornroxas02/employee-tracker-project/blob/master/Screen%20Shot%202020-08-18%20at%2011.17.53%20PM.png)
+
 
 > This App was created allow none developers to view and interact with information stored in databases.
 
@@ -49,8 +50,8 @@ so that they can organize their business
 ![ReadMe Image](https://github.com/osbornroxas02/note-taker-project/blob/master/seated%20.JPG)
 Osborn Roxas
 
-- [Github:](https://github.com/osbornroxas02/note-taker-project)
-- [Email:](https://OSBORNROXAS02@GMAIL.COM)
+- [Github](https://github.com/osbornroxas02/employee-tracker-project)
+- [Email](https://OSBORNROXAS02@GMAIL.COM)
 
 
 [Back to the top](#table-of-contents)
