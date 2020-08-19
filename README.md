@@ -15,7 +15,7 @@
 
 ![ReadMe Image](https://github.com/osbornroxas02/employee-tracker-project/blob/master/Screen%20Shot%202020-08-18%20at%2011.12.07%20PM.png)
 
-The Employee Tracker Application was created to allow buisness owners the ability to view and manage the departments, roles, and employees in my company
+The Employee Tracker Application was created to allow buisness owners the ability to view and manage the departments, roles, and employees 
 so that they can organize their business
 
 
@@ -38,7 +38,7 @@ so that they can organize their business
 ![ReadMe Image](https://github.com/osbornroxas02/employee-tracker-project/blob/master/Screen%20Shot%202020-08-18%20at%2011.17.53%20PM.png)
 
 
-> This App was created allow none developers to view and interact with information stored in databases.
+> This App was created allow none developers to view and interact with information stored in a databases.
 
 
 [Back to the top](#table-of-contents)
